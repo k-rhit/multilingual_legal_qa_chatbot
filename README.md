@@ -9,7 +9,7 @@ Prerequisites
 
 Setup & Installation
 1. Clone the Repository: Clone the repository to your local machine by running the following command in your terminal
-2. Create a Virtual Environment:It's highly recommended to use a virtual environment to manage dependencies.
+2. Create a Virtual Environment: It's highly recommended to use a virtual environment to manage dependencies. Activate pre-tested environment.yml using conda or otherwise follow steps below mentioned steps
    For Windows: python -m venv legal_chatbot_env
    For Linux/Mac: python3 -m venv legal_chatbot_env
 3. Activate the virtual environment:
